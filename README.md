@@ -25,3 +25,15 @@ This project is at the **conceptual incubation stage**, rooted in long-held aspi
 ### ✍🏼 Why the Name?
 
 **“Rakshak”** means _Protector_ — this name symbolizes a future where intelligence is designed not just to _function_, but to _serve_ with purpose and identity.
+
+
+### 🙏 Credits
+**Initiated & Visioned by:**
+
+    </> Aadarsh Raj
+  
+    📅  Sparked: 9 July 2025, 12:30 AM IST
+  
+    ⏰  Idea locked: 3:46 AM IST
+
+“Not just an idea. A vow.”
